@@ -52,5 +52,48 @@ You can additionally have the user reset it when they sign on next
 ![365_Reset_Password3](https://github.com/user-attachments/assets/de0b7763-695f-48cc-9456-51bee2449d0e)
 
 
+# Entra ID
+## Joining Windows 10 to Entra
+Login to the machine with local admin account
+
+![settings](https://github.com/user-attachments/assets/30ecf4df-f647-4f0f-a13e-6577a5024bda)
+
+Go to settings > Accounts
+![Accounts](https://github.com/user-attachments/assets/2f9a0ef2-9611-4743-a039-2d4cb2344147)
+
+Hit Access Work or School
+
+![Access_Work_School](https://github.com/user-attachments/assets/0cc327b9-1e15-4966-99be-8830cd40fc78)
+
+Here you can join Entra ID.  
+
+![Join_Entra](https://github.com/user-attachments/assets/ae51ec50-e954-4241-90a3-527c5ad102c3)
+
+You will need to input the credentials of an account already in Entra ID.  
+
+I used my @something.onmicrosoft.com account that I created when I signed up for MS 365
+
+![Join_Entra2](https://github.com/user-attachments/assets/bef63694-4b0e-4179-9e37-57e55f3065c6)
+
+You can now login with with an Entra ID account
+![Entra_ID_login](https://github.com/user-attachments/assets/f722481c-2a62-4c70-97dd-7d61dc85f97e)
+
+You will be required to provide two factor authentication so you will need Microsoft Authenticator on your phone
+
+![Entra_ID_login2](https://github.com/user-attachments/assets/7d2bc687-b457-4abd-bc27-38f8049eb55a)
+
+![Entra_ID_login3](https://github.com/user-attachments/assets/588e597c-3bd1-43cf-80f0-4d2d77ddec8e)
+
+![Entra_ID_login4](https://github.com/user-attachments/assets/a2725608-63a8-4354-9b80-c608516727cd)
+
+
+![Entra_ID_login5](https://github.com/user-attachments/assets/ebedf021-6f47-4048-9ab9-6e14fce69311)
+
+You will also need to create a PIN
+
+![Entra_ID_login6](https://github.com/user-attachments/assets/f1b783aa-7e8a-413e-9fee-40688ac511df)
+
+
+
 
 
