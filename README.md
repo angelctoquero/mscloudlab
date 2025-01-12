@@ -133,7 +133,7 @@ Under properties I think Business Premium license includes "Use shared computer 
 
 ![Intune_App_Add_365_3](https://github.com/user-attachments/assets/270b8c02-cf4c-4516-aa45-18890a3b8a85)
 
-For assignments I added the group I created when I signed up for MS 365.  It's basically the business name I signed up with.  I just called it "MINE" 
+For Assignments I added the group I created when I signed up for MS 365.  This is the business name I used when I signed up for MS 365, which defaulted as the tenant when I signed up for Entra ID.
 
 ![Intune_App_Add_365_4](https://github.com/user-attachments/assets/192e27de-f0b8-4268-a3fe-c575aba56c42)
 ![Intune_App_Add_365_5](https://github.com/user-attachments/assets/efa9576d-1720-4c0a-ae5f-113146ed7775)
