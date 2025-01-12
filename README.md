@@ -1,17 +1,16 @@
 # Table of Contents
--[Microsoft 365](#microsoft-365)
--[Add User](#add-user)
--[Reset Password](#reset-password)
--[Entra ID](#entra-id)
--[Joining Windows 10 to Entra](#joining-windows-10-to-entra-id)
--[Intune](#intune)
--[Install App](#install-app)
--[]()
--[]()
+  - [Microsoft 365](#microsoft-365)
+  - [Add User](#add-user)
+  - [Reset Password](#reset-password)
+  - [Entra ID](#entra-id)
+  - [Joining Windows 10 to Entra](#joining-windows-10-to-entra-id)
+  - [Intune](#intune)
+  - [Install App](#install-app)
+
 
 
 # Intro
-A work in progress to get myself familiar with Microsoft's Entra ID, 365 and Intune
+A work in progress to get myself familiar with Microsoft's Entra ID, 365 and Intune.
 
 # Handy Notes
 - I signed up for Microsoft 365 Business Premium because it comes with Intune and a 30 day free trial
