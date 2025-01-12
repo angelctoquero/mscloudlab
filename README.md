@@ -80,7 +80,7 @@ I used my @something.onmicrosoft.com account that I created when I signed up for
 
 ![Join_Entra2](https://github.com/user-attachments/assets/bef63694-4b0e-4179-9e37-57e55f3065c6)
 
-You can now login with with an Entra ID account
+You can now login with an Entra ID account
 ![Entra_ID_login](https://github.com/user-attachments/assets/f722481c-2a62-4c70-97dd-7d61dc85f97e)
 
 You will be required to provide two factor authentication so you will need Microsoft Authenticator on your phone
