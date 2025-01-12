@@ -1,11 +1,11 @@
 # Table of Contents
   - [Microsoft 365](#microsoft-365)
-  - [Add User](#add-user)
-  - [Reset Password](#reset-password)
+    - [Add User](#add-user)
+    - [Reset Password](#reset-password)
   - [Entra ID](#entra-id)
-  - [Joining Windows 10 to Entra](#joining-windows-10-to-entra-id)
+    - [Joining Windows 10 to Entra](#joining-windows-10-to-entra-id)
   - [Intune](#intune)
-  - [Install App](#install-app)
+    - [Install App](#install-app)
 
 
 
