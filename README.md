@@ -1,8 +1,11 @@
 # Table of Contents
 -[Microsoft 365](#microsoft-365)
--[]()
--[]()
--[]()
+-[Add User](#add-user)
+-[Reset Password](#reset-password)
+-[Entra ID](#entra-id)
+-[Joining Windows 10 to Entra](#joining-windows-10-to-entra-id)
+-[Intune](#intune)
+-[Install App](#install-app)
 -[]()
 -[]()
 
@@ -63,7 +66,7 @@ You can additionally have the user reset it when they sign on next
 
 
 # Entra ID
-## Joining Windows 10 to Entra
+## Joining Windows 10 to Entra ID
 I set up a Windows 10 Pro client using Virtualbox
 
 The VM has 2 CPU cores, 8 gigs of RAM, 50 gigs of virtual HD, one Network Adapter set to NAT
