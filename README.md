@@ -1,3 +1,12 @@
+# Table of Contents
+-[Microsoft 365](#microsoft-365)
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+
+
 # Intro
 A work in progress to get myself familiar with Microsoft's Entra ID, 365 and Intune
 
