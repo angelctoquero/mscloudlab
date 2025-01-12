@@ -2,12 +2,13 @@
 A work in progress to get myself familiar with Microsoft's Entra ID, 365 and Intune
 
 # Handy Notes
-- I signed up for Microsoft 365 first and Entra ID second
+- I signed up for Microsoft 365 Business Premium because it comes with Intune and a 30 day free trial
+- I signed up for MS 365 first and Entra ID second
 - MS 365 gave me the option of creating my own Outlook email account AND a unique sign-on name with a domain that looked like myname@something.onmicrosoft.com
 - When I signed up for Entra ID I should have used the sign-on name I created at MS 365, myname@something.onmicrosoft.com
-- Instead I used my Outlook email which led to Entra ID creating a tenant with a different domain from what my MS 365 account was expecting
+- Instead I used my new Outlook email which led to Entra ID creating a tenant with a different domain from what my MS 365 account was expecting
 - On a free Entra ID account, apparently you cannot change the domain name of the tenant
-- I had to sign up for Entra ID again using the same myname@something.onmicrosoft.com domain used by MS 365
+- I had to sign up for Entra ID again using the same myname@something.onmicrosoft.com domain used by my MS 365 trial
 
 # Microsoft 365
 ## Add User
@@ -54,6 +55,10 @@ You can additionally have the user reset it when they sign on next
 
 # Entra ID
 ## Joining Windows 10 to Entra
+I set up a Windows 10 Pro client using Virtualbox
+
+The VM has 2 CPU cores, 8 gigs of RAM, 50 gigs of virtual HD, one Network Adapter set to NAT
+
 Login to the machine with local admin account
 
 ![settings](https://github.com/user-attachments/assets/30ecf4df-f647-4f0f-a13e-6577a5024bda)
@@ -92,6 +97,61 @@ You will be required to provide two factor authentication so you will need Micro
 You will also need to create a PIN
 
 ![Entra_ID_login6](https://github.com/user-attachments/assets/f1b783aa-7e8a-413e-9fee-40688ac511df)
+
+# Intune
+
+## Install App 
+
+After we join a Windows 10 machine to Entra ID, it'll be available in Intune.
+
+Login to intune.microsoft.com with admin credentials
+
+From the Admin Center go to Devices, you should see the machine we joined to Entra ID:
+
+![Intune_Devices](https://github.com/user-attachments/assets/19927fea-206d-42c4-a13b-4bae71ec910e)
+![Intune_Devices_2](https://github.com/user-attachments/assets/2c29fda8-e926-4a97-bc9d-052af7cb896d)
+![Intune_Devices_3](https://github.com/user-attachments/assets/d279e21c-fa55-41ab-9a6d-25941d12f028)
+
+Using Intune we can deploy an app to the machine.
+
+Go to Apps
+
+![Intune_App](https://github.com/user-attachments/assets/88e56b45-577a-4f97-aaf5-64f2cd3cad19)
+
+Select Windows Apps and hit Add
+
+![Intune_App_Add](https://github.com/user-attachments/assets/75819dae-d5cb-4d96-9010-4e6602460038)
+
+Choose Microsoft 365 for Windows 10 and later
+
+![Intune_App_Add_365](https://github.com/user-attachments/assets/df8aa76c-3acc-4d85-9921-90164fb5bac6)
+![Intune_App_Add_365_2](https://github.com/user-attachments/assets/0c60b6a3-e84c-412e-aa6d-1e7f1e39e2f4)
+
+I selected all the default apps since I'm sure they're included in my trial of Microsoft 365 Business premium 
+
+Under properties I think Business Premium license includes "Use shared computer activation" but I selected No
+
+![Intune_App_Add_365_3](https://github.com/user-attachments/assets/270b8c02-cf4c-4516-aa45-18890a3b8a85)
+
+For assignments I added the group I created when I signed up for MS 365.  It's basically the business name I signed up with.  I just called it "MINE" 
+
+![Intune_App_Add_365_4](https://github.com/user-attachments/assets/192e27de-f0b8-4268-a3fe-c575aba56c42)
+![Intune_App_Add_365_5](https://github.com/user-attachments/assets/efa9576d-1720-4c0a-ae5f-113146ed7775)
+
+Hit create
+
+![Intune_App_Add_365_6](https://github.com/user-attachments/assets/49c14a80-6b9d-441d-9e77-8c2a0d8ab224)
+
+Log back into the Windows 10 machine with Microsfot 365 user we created earlier
+
+Apparently you have to wait for the machine to connect to Intune before it downloads
+
+I waited on the desktop for about 15 minutes before the Microsoft Office 365 apps began showing up on the start menu
+
+![Intune_App_Add_365_7](https://github.com/user-attachments/assets/e685cbd0-0766-4430-b0a6-07efcbf001e3)
+
+
+
 
 
 
