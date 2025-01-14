@@ -2,6 +2,7 @@
   - [Microsoft 365](#microsoft-365)
     - [Add User](#add-user)
     - [Reset Password](#reset-password)
+    - [Add Team](#add-team)
   - [Entra ID](#entra-id)
     - [Joining Windows 10 to Entra](#joining-windows-10-to-entra-id)
   - [Intune](#intune)
@@ -62,6 +63,39 @@ You can additionally have the user reset it when they sign on next
 ![365_sign_in](https://github.com/user-attachments/assets/99de98ca-adaa-40dc-a859-83443d708ce8)
 
 ![365_Reset_Password3](https://github.com/user-attachments/assets/de0b7763-695f-48cc-9456-51bee2449d0e)
+
+## Add Team
+
+Sign on to admin.microsoft.com with your admin credentials
+
+Go to Active Teams and hit Add a Team
+
+![Add_Team](https://github.com/user-attachments/assets/0a5a1399-bd3a-4974-a327-f7a8620267ff)
+
+Give the team a name and description
+
+![Add_Team2](https://github.com/user-attachments/assets/aad09215-8a43-4ceb-9920-1e4d40443aaf)
+
+For team owners I selected two admin accounts I had created earlier.  You can probably choose user accounts as well.
+
+![Add_Team3](https://github.com/user-attachments/assets/da63fad4-113a-43ea-be39-89535d7b4dd4)
+
+For team members I selected one user account
+
+![Add_Team4](https://github.com/user-attachments/assets/3bc3a2cc-ed21-4c4f-a28a-9ea7822a3750)
+
+I created a new team email and wrote a short description of the team
+
+I also made the team public so that anyone can join the team without admin approval
+
+![Add_Team5](https://github.com/user-attachments/assets/e81d04de-f95e-4638-8f3a-0b181dbe3bbb)
+
+![Add_Team7](https://github.com/user-attachments/assets/f0cb2030-2a24-4b32-98af-29d78a232788)
+
+
+
+
+
 
 
 # Entra ID
