@@ -3,7 +3,7 @@
     - [Add User](#add-user)
     - [Reset Password](#reset-password)
     - [Add Team](#add-team)
-    - [Team Chat](#Chat)
+    - [Team Chat](#team-chat)
   - [Entra ID](#entra-id)
     - [Joining Windows 10 to Entra](#joining-windows-10-to-entra-id)
   - [Intune](#intune)
