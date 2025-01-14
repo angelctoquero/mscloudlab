@@ -3,6 +3,7 @@
     - [Add User](#add-user)
     - [Reset Password](#reset-password)
     - [Add Team](#add-team)
+    - [Team Chat](#Chat)
   - [Entra ID](#entra-id)
     - [Joining Windows 10 to Entra](#joining-windows-10-to-entra-id)
   - [Intune](#intune)
@@ -91,6 +92,32 @@ I also made the team public so that anyone can join the team without admin appro
 ![Add_Team5](https://github.com/user-attachments/assets/e81d04de-f95e-4638-8f3a-0b181dbe3bbb)
 
 ![Add_Team7](https://github.com/user-attachments/assets/f0cb2030-2a24-4b32-98af-29d78a232788)
+
+## Team Chat
+Sign on to teams.microsoft.com as any user
+
+![Teams_Sign_in](https://github.com/user-attachments/assets/4d45c543-9e3a-411b-8437-d85a1f89495b)
+
+Select the Chat menu and select the new chat symbol.  It's the square with the slanted line.  Looks like a pen and paper.
+
+![Chat_Symbol](https://github.com/user-attachments/assets/73fab3a1-fd00-4b5a-a5ac-4b3d738a6bf3)
+
+Type in the name of the users you want to chat with
+
+![Chat1](https://github.com/user-attachments/assets/407a44ff-c3c4-4f66-aaac-b3ed0e3a2117)
+
+Send your message
+
+![Chat2](https://github.com/user-attachments/assets/37e630c0-2db6-4721-97a6-4b3f424dbb88)
+
+Sign out of chat and sign in as the other user.  You can respond to that user:
+
+![Chat3](https://github.com/user-attachments/assets/07592240-ed0b-4f0f-ba28-8240276a1c31)
+
+
+
+
+
 
 
 
