@@ -37,7 +37,7 @@ At the prompt you can assign licenses like Microsoft 365
 
 ![365_Assign_License](https://github.com/user-attachments/assets/e80afc2e-c574-4338-8df1-e304d31f85df)
 
-For roles you can choose whether the user has extra privalages like Admin rights:
+For roles you can choose whether the user has extra privilages like Admin rights:
 
 ![365_Assign_Role](https://github.com/user-attachments/assets/363b8c10-431b-4804-bf9a-4f4591cc72a5)
 
