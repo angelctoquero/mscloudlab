@@ -4,6 +4,7 @@
     - [Reset Password](#reset-password)
     - [Add Team](#add-team)
     - [Team Chat](#team-chat)
+    - [Meeting](#meeting)
   - [Entra ID](#entra-id)
     - [Joining Windows 10 to Entra](#joining-windows-10-to-entra-id)
   - [Intune](#intune)
@@ -114,12 +115,45 @@ Sign out of chat and sign in as the other user.  You can respond to that user:
 
 ![Chat3](https://github.com/user-attachments/assets/07592240-ed0b-4f0f-ba28-8240276a1c31)
 
+## Meeting
 
+Sign on to teams.microsoft.com as any user
 
+![Teams_Sign_in](https://github.com/user-attachments/assets/4a3d6a70-d862-4c5a-908a-2e42c162e07e)
 
+By default there is a "General" channel under each team
 
+You can make additional channels but for practice we'll use the "General" channel
 
+![Teams_Channel_General](https://github.com/user-attachments/assets/c0b6697a-b416-4638-94d1-c253e8c71f6e)
 
+At the upper right there is a camera symbol, if you click on it you can choose to Meet Now or Schedule a Meeting
+
+Click Meet Now
+
+![Meet_Now](https://github.com/user-attachments/assets/a3614379-567b-4a26-92d8-f02cace072ab)
+
+You can choose to invite other people to the meeting
+
+![Request_Join](https://github.com/user-attachments/assets/3eb254e4-829a-4017-83cb-91d6a40e2270)
+
+If you hit Request Join on the user, if they are logged into teams they'll get a request to join your meeting
+
+Here is what it looks like if they are logged into their Teams app on Android:
+
+![Mobile_Answer_Meeting](https://github.com/user-attachments/assets/439322c4-55be-4fed-a565-888d8c8d7efc)
+
+By Default the camera is off on the Android app.  You can click on the camera symbol IF YOU DARE
+
+![Mobile_Answer_Meeting2](https://github.com/user-attachments/assets/3639d7e1-bc32-48dd-9c0f-92ff11f0e720)
+
+Either party can choose to leave the meeting.  Here's the view from the app:
+
+![Mobile_Leave_Meeting](https://github.com/user-attachments/assets/85e209b8-8515-4301-a754-e6bb31257692)
+
+Here's the view from the Teams website:
+
+![End_Meeting](https://github.com/user-attachments/assets/03a6188a-3fd3-4b68-a4fc-db8ff190867d)
 
 
 
