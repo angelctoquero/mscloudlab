@@ -5,6 +5,7 @@
     - [Add Team](#add-team)
     - [Team Chat](#team-chat)
     - [Meeting](#meeting)
+    - [Exchange Online](#exchange-online)
   - [Entra ID](#entra-id)
     - [Joining Windows 10 to Entra](#joining-windows-10-to-entra-id)
   - [Intune](#intune)
@@ -155,7 +156,45 @@ Here's the view from the Teams website:
 
 ![End_Meeting](https://github.com/user-attachments/assets/03a6188a-3fd3-4b68-a4fc-db8ff190867d)
 
+# Exchange Online
+## Create Shared Mailbox
+Login to the admin.microsoft.com
 
+On the left menu, click on Show All to reveal Admin centers
+
+![Admin_Center_Exchange](https://github.com/user-attachments/assets/2459b31d-835c-428e-b063-36e4802d255e)
+
+Click on Exchange 
+
+Once on Exchange click on Mailboxes on the left menu
+
+Here we can add a new shared mailbox
+
+The reason I'm doing this is because the Teams email I created earlier only functions as an inbox for that Team channel.  The default setup doesn't let members of that Team send emails from that Team email.
+
+I would like a shared email that my Team users can send email from
+
+However you can create a shared box for any group of users
+
+Go to Add Shared Mailbox
+
+![Add_Shared_Mailbox](https://github.com/user-attachments/assets/f6964fe3-e4ff-438a-be3a-0949940f0826)
+
+I will give the shared mail box a name and a different email address from the Teams email I created
+
+![Add_Shared_Mailbox2](https://github.com/user-attachments/assets/e1b5b5c7-6624-493c-877b-e7944c044de2)
+
+Once the shared mail box is created I will delegated users to it
+
+![Mailbox_Delegation](https://github.com/user-attachments/assets/9e4b4eda-7b2d-4f5d-bfcf-33ec26fccea8)
+
+![Mailbox_Delegation2](https://github.com/user-attachments/assets/662d6ca6-1055-4e6d-b27b-12420a6a7e22)
+
+I will give "Send As" permission to a user of my choice.  In my case I chose a member from the Team I created earlier.
+
+![Mailbox_Send_As1](https://github.com/user-attachments/assets/8ccf13bb-3a3c-4b56-b2f3-3c2c5e3bbe8d)
+
+![Mailbox_Send_As2](https://github.com/user-attachments/assets/b72ad64c-1dab-40b0-8852-e45864796dde)
 
 
 
