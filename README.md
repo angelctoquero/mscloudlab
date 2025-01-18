@@ -172,6 +172,8 @@ Once on Exchange click on Mailboxes on the left menu
 
 Here we can add a new shared mailbox
 
+![Add_Shared_Mailbox](https://github.com/user-attachments/assets/f6964fe3-e4ff-438a-be3a-0949940f0826)
+
 The reason I'm doing this is because the Teams email I created earlier only functions as an inbox for that Team channel.  The default setup doesn't let members of that Team to send emails from that Team email.
 
 I would like a shared email that my Team users can send email from
@@ -179,8 +181,6 @@ I would like a shared email that my Team users can send email from
 However you can create a shared box for any group of users
 
 Go to Add Shared Mailbox
-
-![Add_Shared_Mailbox](https://github.com/user-attachments/assets/f6964fe3-e4ff-438a-be3a-0949940f0826)
 
 I will give the shared mail box a name and a different email address from the Teams email I created
 
