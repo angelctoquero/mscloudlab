@@ -186,7 +186,7 @@ I will give the shared mail box a name and a different email address from the Te
 
 ![Add_Shared_Mailbox2](https://github.com/user-attachments/assets/e1b5b5c7-6624-493c-877b-e7944c044de2)
 
-Once the shared mail box is created I will delegated users to it
+Once the shared mail box is created I will delegate users to it
 
 ![Mailbox_Delegation](https://github.com/user-attachments/assets/9e4b4eda-7b2d-4f5d-bfcf-33ec26fccea8)
 
