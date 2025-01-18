@@ -6,6 +6,8 @@
     - [Team Chat](#team-chat)
     - [Meeting](#meeting)
     - [Exchange Online](#exchange-online)
+    - [Create Shared Mailbox](#create-shared-mailbox)
+    - [Outlook Online](#outlook-online)
   - [Entra ID](#entra-id)
     - [Joining Windows 10 to Entra](#joining-windows-10-to-entra-id)
   - [Intune](#intune)
@@ -195,6 +197,38 @@ I will give "Send As" permission to a user of my choice.  In my case I chose a m
 ![Mailbox_Send_As1](https://github.com/user-attachments/assets/8ccf13bb-3a3c-4b56-b2f3-3c2c5e3bbe8d)
 
 ![Mailbox_Send_As2](https://github.com/user-attachments/assets/b72ad64c-1dab-40b0-8852-e45864796dde)
+
+# Outlook Online
+## Send Email from Shared Mail Box
+Login to office.microsoft.com with a user that was delegated to a shared mail box
+
+![Outlook](https://github.com/user-attachments/assets/ae3d55cd-e803-47f5-bc73-c4885f3532cd)
+
+Go to View and click on View Settings
+
+![Outlook_View_Settings](https://github.com/user-attachments/assets/9c9c071a-8570-4c9a-b38f-d98aabadc8e2)
+
+![Outlook_View_Settings2](https://github.com/user-attachments/assets/ace224c2-af59-48f3-a55a-ba6464425d08)
+
+Make sure you check "Always show From" under Message Format
+
+![Outlook_View_Settings3](https://github.com/user-attachments/assets/baa773e0-8633-4b32-a023-1528ff06af38)
+
+Compose a new message
+
+Click on From and hit other email addresses
+
+![Outlook_New_Mail_From1](https://github.com/user-attachments/assets/e8c62e88-07f0-4f31-9015-f9818e1c4658)
+
+You will not see the shared mail box you created at first.  You will need to begin typing in the email of the shared mail box before it autocompletes:
+
+![Outlook_New_Mail_From2](https://github.com/user-attachments/assets/6a098fa1-7010-4749-b4b7-9be8feab564a)
+
+Compose your message and send it to another user.
+
+Login to office.microsoft.com with the user you sent the email to.  They should have received your message from the name of your shared mail box.
+
+![Outlook_New_Mail_From3](https://github.com/user-attachments/assets/384503ae-9013-4446-a176-fc7f166cfc33)
 
 
 
