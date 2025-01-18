@@ -178,7 +178,7 @@ The reason I'm doing this is because the Teams email I created earlier only func
 
 I would like a shared email that my Team users can send email from
 
-However you can create a shared box for any group of users
+However you can create a shared mail box for any group of users
 
 Go to Add Shared Mailbox
 
