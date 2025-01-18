@@ -172,7 +172,7 @@ Once on Exchange click on Mailboxes on the left menu
 
 Here we can add a new shared mailbox
 
-The reason I'm doing this is because the Teams email I created earlier only functions as an inbox for that Team channel.  The default setup doesn't let members of that Team send emails from that Team email.
+The reason I'm doing this is because the Teams email I created earlier only functions as an inbox for that Team channel.  The default setup doesn't let members of that Team to send emails from that Team email.
 
 I would like a shared email that my Team users can send email from
 
